@@ -2,3 +2,9 @@ body{
     background-color: lightblue;
     text-align: center;
 }
+a{
+    border: black solid;
+    margin-left: 2%;
+    background-color: cadetblue;
+    color: white;
+}
